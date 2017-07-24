@@ -1,0 +1,15 @@
+/*container style*/
+.gallery-image-container{
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position:top center;
+}
+
+/*individual thumb images*/
+.thumb-1{
+  background-image: url(../images/songkicklive/thumb-1.jpg);
+}
+
+.thumb-2{
+  background-image: url(../images/songkicklive/thumb-2.jpg);
+}
